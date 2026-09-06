@@ -5,12 +5,7 @@
 
 | 💡 Sobre mí | 🛠️ Stack Tecnológico |
 | :--- | :--- |
-| • Experiencia previa en finanzas y gestión contable.<br>• Enfoque analítico y visión de negocio.<br>• Apasionado por crear software eficiente y escalable. | • **Lenguajes:** Java, JavaScript, SQL<br>• **Backend/Frontend:** Spring, HTML5/CSS, Bootstrap<br>• **Bases de datos:** PostgreSQL<br>• **Control de versiones:** Git, GitHub |
+| • Experiencia en gestion y liderazgo.<br>• Enfoque analítico y visión de negocio.<br>• Apasionado por crear software eficiente y escalable. | • **Lenguajes:** Java, JavaScript, SQL<br>• **Backend/Frontend:** Spring, HTML5/CSS, Bootstrap<br>• **Bases de datos:** PostgreSQL<br>• **Control de versiones:** Git, GitHub |
 
 <br>
 
-<div align="center">
-  <a href="www.linkedin.com/in/dylanpuentes-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
